@@ -22,37 +22,6 @@ This README documents the custom setup of a 3D printer, combining elements from 
 
 ## Firmware Configuration
 - **Firmware**: Klipper
-- **Version**: [Specify the firmware version]
-- **Custom Modifications**: 
-  - [Detail any custom changes made to the firmware]
-
-## Network Setup
-- **Raspberry Pi Setup**: 
-  - [Instructions on setting up the Raspberry Pi for remote access]
-- **Network Configuration**: 
-  - [Details on how the printer is connected to the network]
-- **Remote Access**: 
-  - Instructions on how to connect to the printer remotely, including necessary software and settings.
-
-## Printing Parameters
-- **Print Bed Calibration**: 
-  - [Instructions for calibrating the print bed]
-- **Filament Types and Settings**: 
-  - [Details about different filaments and their respective settings]
-- **Temperature Settings**: 
-  - [Optimal temperature settings for different materials]
-
-## Maintenance and Troubleshooting
-- **Routine Maintenance Tips**: 
-  - [Guidance on maintaining the printer for optimal performance]
-- **Common Issues and Solutions**: 
-  - [List of common issues encountered with this setup and their solutions]
-
-## Safety Guidelines
-- **Operating Safety**: 
-  - [Safety precautions to take while operating the printer]
-- **Electrical Safety**: 
-  - [Guidelines for handling the electrical components safely]
 
 ## Conclusion
-This custom 3D printer setup provides a versatile and powerful printing solution, enhanced by the flexibility of Klipper firmware and remote access capabilities. Feel free to contribute or suggest improvements to this setup.
+This custom 3D printer setup provides a versatile and powerful printing solution, enhanced by the flexibility of Klipper firmware and remote access capabilities.
